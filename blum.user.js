@@ -15,8 +15,8 @@
     'use strict';
 
     const minBombClickCount = 0; //số bomb sẽ bấm vào
-    const minFreezeClickCount = 2; //số băng sẽ bấm vào
-    const cloverSkipPercentage = 3; //tỉ lệ bỏ qua click cỏ ba lá (%)
+    const minFreezeClickCount = 1+getRandomInt(3); //số băng sẽ bấm vào
+    const cloverSkipPercentage =1+getRandomInt(10); //tỉ lệ bỏ qua click cỏ ba lá (%)
 
     const consoleRed = 'font-weight: bold; color: red;';
     const consoleGreen = 'font-weight: bold; color: green;';
