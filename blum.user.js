@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto Blum
+// @name         Auto_Blum_2024
 // @namespace    http://tampermonkey.net/
 // @version      2024-06-17
 // @description  Đã sợ thì đừng dùng, đã dùng thì đừng sợ!
