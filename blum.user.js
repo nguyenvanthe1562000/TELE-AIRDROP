@@ -14,6 +14,10 @@
 (function() {
     'use strict';
 
+    function getRandomInt(max) {
+      return Math.floor(Math.random() * max);
+    }
+
     const minBombClickCount = 0; //số bomb sẽ bấm vào
     const minFreezeClickCount = 1+getRandomInt(3); //số băng sẽ bấm vào
     const cloverSkipPercentage =1+getRandomInt(10); //tỉ lệ bỏ qua click cỏ ba lá (%)
