@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         Auto Blum
+// @name         Auto_Blum_2024
 // @namespace    http://tampermonkey.net/
-// @version      2024-09-11
+// @version      2024-06-17
 // @description  Đã sợ thì đừng dùng, đã dùng thì đừng sợ!
 // @author       caobang
 // @match        https://telegram.blum.codes/*
 // @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
+// @downloadURL  https://github.com/nguyenvanthe1562000/TELE-AIRDROP/blum.user.js
+// @updateURL    https://github.com/nguyenvanthe1562000/TELE-AIRDROP/blum.user.js
 // @grant        none
 // ==/UserScript==
 
