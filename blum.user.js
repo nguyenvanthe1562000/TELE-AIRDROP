@@ -22,8 +22,7 @@ function getRandomInt(max) {
     const minFreezeClickCount = 1+getRandomInt(3); //số băng sẽ bấm vào
     const cloverSkipPercentage =1+getRandomInt(10); //tỉ lệ bỏ qua click cỏ ba lá (%)
 
-    
-    const minBombClickCount = 0; //số bomb sẽ bấm vào
+ 
     const clickDelay = 500; // Độ trễ trước khi click (ms)
 
     const consoleRed = 'font-weight: bold; color: red;';
